@@ -6,6 +6,10 @@ An unofficial custom ChatGPT pet asset pack featuring the Naiwa v2 sprite sheet,
 
 [Download the complete asset pack](https://github.com/victkk11-beep/naiwa-pet-download/raw/refs/heads/main/naiwa-pet-download.zip) · [Download the v2 sprite sheet](https://github.com/victkk11-beep/naiwa-pet-download/raw/refs/heads/main/naiwa-pet-spritesheet-v2.png)
 
+## Naiwa fans, come show your support!
+
+If you enjoy the pet, please ⭐ star the repository, share it with other Naiwa fans, and tell us which animation you would like to see next!
+
 ## Animation previews
 
 **Idle: looking left and right, with blinking**

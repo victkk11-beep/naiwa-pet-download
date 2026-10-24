@@ -6,6 +6,10 @@
 
 [下载完整素材包](https://github.com/victkk11-beep/naiwa-pet-download/raw/refs/heads/main/naiwa-pet-download.zip) · [下载 v2 精灵图](https://github.com/victkk11-beep/naiwa-pet-download/raw/refs/heads/main/naiwa-pet-spritesheet-v2.png)
 
+## 奶家人快来支持！！！
+
+如果你也喜欢奶蛙，欢迎给仓库点亮 ⭐ Star、分享给其他奶家人，也欢迎提出想看的动作建议！
+
 ## 动作预览
 
 **待机：左右看与眨眼**
